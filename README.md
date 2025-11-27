@@ -1,4 +1,4 @@
-# IoT Week 1 - Hello Sensor 
+// IoT Week 1 - Hello Sensor 
 
 # Project Overview
 This project is my first step into the Internet of Things (IoT).  
